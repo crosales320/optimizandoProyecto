@@ -1,0 +1,53 @@
+.containerHeader {
+    background-color: rgb(218, 112, 186);
+}
+
+.h2Titulo {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.tituloH3 {
+    text-align: center;
+}
+
+.pTitulo {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.rowTarjetas {
+    margin-left: 6%;
+}
+
+.textoTarjetas {
+    text-align: center;
+}
+
+.h5Tarjetas {
+    text-align: center;
+}
+
+.btnTarjetas {
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(170, 118, 157);
+}
+
+.containerFooter {
+    background-color: rgb(170, 118, 157);
+}
+
+.containerFooterUl {
+    list-style: none;
+    text-align: center;
+}
+
+.darkMode {
+    background-color: rgb(74, 7, 83);
+    color: white;
+}
+
+.darkMode table {
+    color: white;
+}
